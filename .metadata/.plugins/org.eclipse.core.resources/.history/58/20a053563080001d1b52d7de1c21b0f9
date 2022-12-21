@@ -1,0 +1,5 @@
+package com.nrifintech.springsecurityapp.service;
+
+public class UserService {
+
+}

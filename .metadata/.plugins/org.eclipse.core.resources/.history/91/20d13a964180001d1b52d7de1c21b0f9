@@ -1,0 +1,9 @@
+package com.nrifintech.springsecurityapp.config;
+
+import org.springframework.security.config.annotation.web.configuration.WebSecurityConfigurerAdapter;
+
+public class MySecurityConfiguration extends WebSecurityConfigurerAdapter{
+	
+	
+	
+}

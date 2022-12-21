@@ -1,0 +1,6 @@
+package com.nrifintech.springsecurityapp.controller;
+
+
+public class HomeController {
+
+}

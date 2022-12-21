@@ -1,0 +1,5 @@
+package com.nrifintech.springsecurityapp.controller;
+
+public class UserController {
+
+}

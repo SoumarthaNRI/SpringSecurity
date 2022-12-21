@@ -1,0 +1,7 @@
+package com.nrifintech.springsecurityapp.config;
+
+
+public class MySecurityConfiguration {
+	
+	
+}
